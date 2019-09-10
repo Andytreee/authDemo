@@ -1,0 +1,9 @@
+/node_modules
+/doc
+/dev/pages/test
+/dist
+/.idea
+/build
+/.history
+yarn.lock
+yarn-error.log
